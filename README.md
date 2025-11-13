@@ -77,7 +77,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBAA05&theme=dark&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBAA05&exclude_repo=repo1,repo2&theme=dark&hide_border=false&layout=compact" />
 </div>
 <br><br><br>
 
