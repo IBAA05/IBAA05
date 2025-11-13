@@ -9,6 +9,7 @@
 
 ## 💡 **About Me**
 <br>
+
 - 💻 Full Stack Developer & AI Experimenter  
 - 🤖 Diving Deep into AI, Machine Learning & Computer Vision  
 - 🌱 Currently Building skills in Django & PyTorch Deep Learning  
